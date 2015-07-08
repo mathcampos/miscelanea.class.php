@@ -2,4 +2,4 @@
     class Miscelanea{
     }
 ?>
-O camelo é um leproso
+Meu piru ta sniper
